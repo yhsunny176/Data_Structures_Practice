@@ -1,0 +1,12 @@
+#VSCode
+.vscode
+
+#executable files
+*.exe
+
+#code_workspace
+*code-workspace
+
+#Input_Output
+input.txt
+output.txt
